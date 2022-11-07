@@ -1,7 +1,9 @@
 <h1 align="center">
   Hey, It's Saurav here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 </h1>
-<h3 align="center">
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="150"/>
+</div>
   A passionate Mobile Application Developer with a desire to explore more about software development :smile:
 </h3>
 <h3>Currently digging into Flutter and ReactJS :wink:</h3>
