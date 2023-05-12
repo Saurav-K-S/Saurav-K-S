@@ -54,13 +54,4 @@
    </p>
   </div>
  </div>
-<br><br>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Saurav-K-S&count_private=true&theme=radical&show_icons=true" />
-</div>
-<br>
-<br>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurav-K-S&layout=compact"/>
-</div>
