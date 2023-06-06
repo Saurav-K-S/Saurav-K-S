@@ -50,7 +50,7 @@
 <div align="center">
  <div>
    <p>&nbsp;
-     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Saurav-K-S&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="thivagar-manickam" />
+     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Saurav-K-S&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="saurav-k-s" />
    </p>
   </div>
  </div>
